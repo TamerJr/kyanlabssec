@@ -1,0 +1,24 @@
+form{
+    position: relative;
+}
+.SearchResult{
+    position: absolute;
+    top:50%;
+    left:10%;
+    background-color: rgb(255, 255, 255);
+    padding: 0;
+}
+.SearchResult ul{
+    list-style: none;
+    padding: 0;
+
+}
+.SearchResult ul li{
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.SearchResult ul li:hover{
+    background-color: #2b13135b;
+}

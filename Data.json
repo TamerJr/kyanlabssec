@@ -1,0 +1,32 @@
+[
+  {
+    "servicesType": [
+      { "type": "service type 1" },
+      { "type": "service type 2" },
+      { "type": "service type 3" },
+      { "type": "service type 4" },
+      { "type": "service type 5" },
+      { "type": "service type 6" }
+    ]
+  },
+  {
+    "ServiceName": [
+      { "serviceName": "imjks sdsd" },
+      { "serviceName": "ahnnekjd iuyiuydb" },
+      { "serviceName": "aoqmchh njc" },
+      { "serviceName": "lmcgj iimebnvio" },
+      { "serviceName": "yhabzmd wertyuj" },
+      { "serviceName": "omskj uiuiw" }
+    ]
+  },
+  {
+    "ProductName": [
+      { "productName": "aakmn aaaa" },
+      { "productName": "xmakl oonkajk" },
+      { "productName": "bnag oqmld" },
+      { "productName": "kmmnqoqmnzv" },
+      { "productName": "mmcnkwu" },
+      { "productName": "oiuiobdhtyqty" }
+    ]
+  }
+]
